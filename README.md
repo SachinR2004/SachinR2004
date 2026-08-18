@@ -93,8 +93,8 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 Contribution Map & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SachinR2004&theme=tokyonight&hide_border=true" alt="Sachin's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinR2004&theme=tokyo-night&hide_border=true&area=true" alt="Sachin's GitHub Activity Map" width="95%" />
 </div>
