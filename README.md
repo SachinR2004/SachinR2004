@@ -90,3 +90,11 @@
 * **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms[cite: 2, 3].
 * **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization[cite: 2, 3].
 * **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall)[cite: 2, 3].
+
+---
+
+### 📊 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinR2004&theme=tokyonight&hide_border=true" alt="Sachin's GitHub Streak" />
+</div>
