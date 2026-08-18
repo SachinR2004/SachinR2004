@@ -69,17 +69,16 @@
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🧠 Core Competencies & Architecture
 
-- 🛰️ **National Space Hackathon 2026:** Developed *Orbital Insight* for satellite constellation management & autonomous debris avoidance[cite: 2].
-- 🌍 **NASA Space Apps Challenge 2025:** Galactic Problem Solver recognition[cite: 2].
-- 📜 **Certifications:** Google Advanced Data Analytics; Introduction to AI and Machine Learning on Google Cloud[cite: 2].
+* **Machine Learning & Predictive Systems:** Supervised learning classification[cite: 2], survival hazard modeling[cite: 2], and pipeline validation[cite: 2, 3].
+* **GenAI & Vector Search:** Document chunking[cite: 2, 3], dense vector similarity matching with FAISS[cite: 2, 3], and local model inference[cite: 2, 3].
+* **Backend & Systems Engineering:** Asynchronous REST APIs with FastAPI[cite: 2, 3], Docker containerization[cite: 2, 3], and numerical physics modeling using RK4[cite: 2, 3].
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=SachinR2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Sachin's GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SachinR2004&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinR2004&theme=tokyonight&hide_border=true" alt="Sachin's GitHub Streak" />
 </div>
