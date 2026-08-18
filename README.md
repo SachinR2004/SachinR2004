@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-- 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**[cite: 2, 3].
-- 💻 **Primary Focus:** Software Development (SDE), Object-Oriented Design, Backend Systems, and Applied Data Analytics[cite: 2, 3].
-- 🛠️ **Engineering Interests:** Scalable REST APIs, Data Structures & Algorithms, Distributed Systems, and Predictive Modeling[cite: 2, 3].
+- 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**.
+- 💻 **Primary Focus:** Software Development (SDE), Object-Oriented Design, Backend Systems, and Applied Data Analytics.
+- 🛠️ **Engineering Interests:** Scalable REST APIs, Data Structures & Algorithms, Distributed Systems, and Predictive Modeling.
 
 ---
 
@@ -54,36 +54,38 @@
 
 ### 📂 Featured Repositories & Systems
 
-📦 Software & Systems Engineering
-┣ 📜 Stock-Portfolio-Management-System
-┃ ┣ 🔹 Object-Oriented financial time-series pipeline for tracking asset returns and portfolio risk
-┃ ┣ 🛠️ Python • Pandas • NumPy • OOP
-┃ ┗ 🔗 Repository
-┣ 📜 Orbital-Insight
-┃ ┣ 🔹 Space situational awareness platform with RK4 propagation, J2 perturbation models, and 3D simulation
-┃ ┣ 🛠️ FastAPI • React • Three.js • Docker
-┃ ┗ 🔗 Repository
-┗ 📜 Local-RAG-Study-Assistant
-┣ 🔹 Offline document QA pipeline using sentence embeddings and FAISS dense vector search
-┣ 🛠️ Python • Streamlit • FAISS • Hugging Face
-┗ 🔗 Repository
+#### ⚙️ Software & Systems Engineering
 
-📦 Analytics & Machine Learning Systems
-┣ 📜 Customer-Churn-Retention-Analytics
-┃ ┣ 🔹 Churn risk prediction & retention dashboard achieving 77.86% accuracy and 0.8423 ROC-AUC
-┃ ┣ 🛠️ Python • Scikit-Learn • Pandas • Streamlit
-┃ ┗ 🔗 Repository
-┣ 📜 Heart-Risk-Assessment
-┃ ┣ 🔹 Clinical risk assessment application with end-to-end data preprocessing and inference pipelines
-┃ ┣ 🛠️ Python • Scikit-Learn • Pandas • Streamlit
-┃ ┗ 🔗 Repository
-┗ 📜 Leukemia-Prognosis-System
-┣ 🔹 Survival hazard classification and MLP prediction pipelines deployed on Hugging Face Spaces
-┣ 🛠️ PyTorch • Scikit-Learn • Streamlit
-┗ 🔗 Repository
+* **[Stock-Portfolio-Management-System](https://github.com/SachinR2004/Stock-Portfolio-Management-System)**  
+  Object-Oriented financial time-series pipeline for tracking asset returns, market performance, and portfolio risk.  
+  `Python` `Pandas` `NumPy` `OOP`
+
+* **[Orbital-Insight](https://github.com/SachinR2004/orbital-insight)**  
+  Space situational awareness platform with RK4 propagation, J2 perturbation models, and real-time 3D simulation.  
+  `FastAPI` `React` `Three.js` `Docker`
+
+* **[Local-RAG-Study-Assistant](https://github.com/SachinR2004/local-rag-assistant)**  
+  Offline document QA pipeline using sentence embeddings and FAISS dense vector search without external cloud APIs.  
+  `Python` `Streamlit` `FAISS` `Hugging Face`
+
+#### 📊 Analytics & Machine Learning Systems
+
+* **[Customer-Churn-Retention-Analytics](https://github.com/SachinR2004/Customer-Churn-Retention-Analytics)**  
+  Churn risk prediction & retention dashboard achieving 77.86% accuracy and 0.8423 ROC-AUC.  
+  `Python` `Scikit-Learn` `Pandas` `Streamlit`
+
+* **[Heart-Risk-Assessment](https://github.com/SachinR2004/Heart-Risk-Assessment)**  
+  Clinical risk assessment application with end-to-end data preprocessing, risk estimation, and interactive UI.  
+  `Python` `Scikit-Learn` `Pandas` `Streamlit`
+
+* **[Leukemia-Prognosis-System](https://github.com/SachinR2004/leukemia-prognosis)**  
+  Survival hazard classification and MLP prediction pipelines deployed live on Hugging Face Spaces.  
+  `PyTorch` `Scikit-Learn` `Streamlit`
+
+---
 
 ### 🧠 Core Competencies
 
-- **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms[cite: 2, 3].
-- **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization[cite: 2, 3].
-- **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall)[cite: 2, 3].
+* **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms.
+* **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization.
+* **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall).
