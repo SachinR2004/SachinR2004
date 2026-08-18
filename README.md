@@ -79,7 +79,7 @@
 
 * **[Stock-Portfolio-Management-System](https://github.com/SachinR2004/Stock-Portfolio-Management-System)**  
   Object-Oriented financial time-series pipeline for asset allocation, returns calculation, and portfolio risk analysis.  
-  `Python` `Pandas` `NumPy` `OOP`[cite: 3]
+  `Python` `Pandas` `NumPy` `OOP`
 
 ---
 
