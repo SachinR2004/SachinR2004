@@ -13,10 +13,10 @@
 
 ### 🚀 About Me
 
-* 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**[cite: 2, 3].
-* 💻 **Software & Systems:** Strong foundation in **Data Structures, Algorithms, OOP**, and scalable backend architectures[cite: 2, 3].
-* 📈 **Data & Predictive Analytics:** Hands-on experience developing end-to-end classification pipelines, vector retrieval engines, and interactive data dashboards[cite: 2, 3].
-* ⚡ **Engineering Mindset:** Focused on writing modular, well-documented code with a problem-solving approach tailored for Software Development and Applied Data roles[cite: 2, 3].
+* 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**.
+* 💻 **Software & Systems:** Strong foundation in **Data Structures, Algorithms, OOP**, and scalable backend architectures.
+* 📈 **Data & Predictive Analytics:** Hands-on experience developing end-to-end classification pipelines, vector retrieval engines, and interactive data dashboards.
+* ⚡ **Engineering Mindset:** Focused on writing modular, well-documented code with a problem-solving approach tailored for Software Development and Applied Data roles.
 
 ---
 
@@ -56,20 +56,20 @@
 ### 📌 Featured Projects
 
 * **[Leukemia-Prognosis-System](https://github.com/SachinR2004/leukemia-prognosis)**  
-  End-to-end ML survival hazard modeling using PyTorch neural architectures (`LogisticHazard`, `DeepHitSingle`) with preprocessing pipelines deployed on Hugging Face Spaces[cite: 2].  
-  `Python` `PyTorch` `Scikit-Learn` `Streamlit`[cite: 2]
+  End-to-end ML survival hazard modeling using PyTorch neural architectures (`LogisticHazard`, `DeepHitSingle`) with preprocessing pipelines deployed on Hugging Face Spaces.  
+  `Python` `PyTorch` `Scikit-Learn` `Streamlit`
 
 * **[Local-RAG-Study-Assistant](https://github.com/SachinR2004/local-rag-assistant)**  
-  Offline document question-answering system utilizing sentence embeddings, document chunking, and FAISS vector indexing without external cloud APIs[cite: 2].  
-  `Python` `Streamlit` `FAISS` `Hugging Face`[cite: 2]
+  Offline document question-answering system utilizing sentence embeddings, document chunking, and FAISS vector indexing without external cloud APIs.  
+  `Python` `Streamlit` `FAISS` `Hugging Face`
 
 * **[Customer-Churn-Retention-Analytics](https://github.com/SachinR2004/Customer-Churn-Retention-Analytics)**  
-  End-to-end churn prediction and retention analytics dashboard achieving **77.86% accuracy** and **0.8423 ROC-AUC**[cite: 2].  
-  `Python` `Scikit-Learn` `Pandas` `Streamlit`[cite: 2]
+  End-to-end churn prediction and retention analytics dashboard achieving **77.86% accuracy** and **0.8423 ROC-AUC**.  
+  `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 * **[Orbital-Insight](https://github.com/SachinR2004/orbital-insight)**  
-  Space situational awareness backend platform featuring RK4 orbital propagation, J2 perturbation models, and real-time 3D simulation[cite: 2].  
-  `FastAPI` `React` `Three.js` `Docker`[cite: 2]
+  Space situational awareness backend platform featuring RK4 orbital propagation, J2 perturbation models, and real-time 3D simulation.  
+  `FastAPI` `React` `Three.js` `Docker`
 
 ---
 
@@ -80,21 +80,21 @@
   `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 * **[Stock-Portfolio-Management-System](https://github.com/SachinR2004/Stock-Portfolio-Management-System)**  
-  Object-Oriented financial time-series pipeline for asset allocation, returns calculation, and portfolio risk analysis[cite: 3].  
-  `Python` `Pandas` `NumPy` `OOP`[cite: 3]
+  Object-Oriented financial time-series pipeline for asset allocation, returns calculation, and portfolio risk analysis.  
+  `Python` `Pandas` `NumPy` `OOP`
 
 ---
 
 ### 🧠 Core Competencies
 
-* **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms[cite: 2, 3].
-* **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization[cite: 2, 3].
-* **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall)[cite: 2, 3].
+* **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms.
+* **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization.
+* **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall).
 
 ---
 
-### 📊 Contribution Streak
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinR2004&theme=tokyonight&hide_border=true" alt="Sachin's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SachinR2004&theme=tokyonight&hide_border=true" alt="Sachin's GitHub Streak" />
 </div>
