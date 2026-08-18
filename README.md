@@ -13,59 +13,60 @@
 
 ### 🚀 About Me
 
-- 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**.
-- 🔭 **Focus Areas:** Machine Learning, Predictive Analytics, Retrieval-Augmented Generation (RAG), and Backend Development.
-- 💡 **Technical Background:** Building end-to-end ML classification systems, offline GenAI pipelines, and space situational awareness simulations.
+* 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**.
+* 💻 **Primary Focus:** Software Development (SDE), Object-Oriented Design, Backend Systems, and Applied Data Analytics.
+* 🛠️ **Engineering Interests:** Scalable REST APIs, Data Structures & Algorithms, Distributed Systems, and Predictive Modeling.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Programming Languages & Databases**
+**Languages & Core Fundamentals**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" />
 </p>
 
-**Data Science, ML & GenAI**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Frameworks, Backend & Developer Tools**
+**Backend, Databases & Developer Tools**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Customer Churn & Retention Analytics** | End-to-end retention analytics dashboard and churn risk prediction achieving 77.86% accuracy and 0.8423 ROC-AUC. | `Python` `Scikit-Learn` `Pandas` `Streamlit` |
-| **Local RAG Study Assistant** | Offline retrieval-augmented generation assistant for PDF querying using FAISS vector search and Flan-T5. | `Python` `FAISS` `Hugging Face` `Streamlit` |
-| **Leukemia Prognosis System** | Clinical survival prediction pipeline implementing PyTorch MLP architectures (LogisticHazard, DeepHitSingle). | `PyTorch` `Scikit-Learn` `Hugging Face` |
-| **Orbital Insight** | Space situational awareness platform with RK4 propagation, J2 perturbation models, and 3D simulation. | `FastAPI` `Three.js` `React` `Docker` |
+**Data Science, Analytics & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
-### 🧠 Core Competencies & Architecture
+### 📌 Featured Repositories & Projects
 
-* **Machine Learning & Predictive Systems:** Supervised learning classification, survival hazard modeling, and pipeline validation.
-* **GenAI & Vector Search:** Document chunking, dense vector similarity matching with FAISS, and local model inference.
-* **Backend & Systems Engineering:** Asynchronous REST APIs with FastAPI, Docker containerization, and numerical physics modeling using RK4.
+| Project | Description | Core Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **Stock Portfolio Management** | Data-driven portfolio management system using OOP design to process financial time-series, track returns, and evaluate risk allocation. | `Python` `Pandas` `NumPy` `OOP` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/Stock-Portfolio-Management-System) |
+| **Orbital Insight** | Space situational awareness platform with RK4 orbital mechanics integration, J2 perturbation models, and real-time visualization. | `FastAPI` `Python` `React` `Docker` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/orbital-insight) |
+| **Customer Churn & Retention** | End-to-end churn prediction and retention analytics dashboard achieving 77.86% accuracy and 0.8423 ROC-AUC. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/Customer-Churn-Retention-Analytics) |
+| **Heart Risk Assessment** | Predictive clinical risk classification application with preprocessing pipelines and interactive UI. | `Python` `Scikit-Learn` `Streamlit` `Pandas` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/Heart-Risk-Assessment) |
+| **Local RAG Study Assistant** | Offline document-questioning pipeline using sentence embeddings and FAISS vector indexing without external APIs. | `Python` `FAISS` `Hugging Face` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/local-rag-assistant) |
+| **Leukemia Prognosis System** | Neural survival classification and hazard estimation pipeline deployed on Hugging Face Spaces. | `PyTorch` `Scikit-Learn` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/leukemia-prognosis) |
+
+---
+
+### 🧠 Core Competencies
+
+* **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms.
+* **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization.
+* **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall).
