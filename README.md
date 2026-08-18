@@ -2,9 +2,9 @@
 
 # Hi there, I'm Sachin 👋
 
-<!-- Dynamic Typing Subheading -->
+<!-- Typing SVG Headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Computer+Science+Undergrad;ML+%26+Deep+Learning+Enthusiast;Python+%26+Backend+Developer;Galactic+Problem+Solver+%7C+NASA+Space+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Computer+Science+Undergrad;ML+%26+Deep+Learning+Enthusiast;Python+%26+Backend+Developer;Galactic+Problem+Solver+%7C+NASA+Space+Apps" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
-* 🎓 **Computer Science & Engineering** undergraduate at **KSIT, Bengaluru**[cite: 1].
-* 🔭 **Focus Areas:** Machine Learning, Retrieval-Augmented Generation (RAG), and Applied AI Systems.
-* 🏆 **Hackathons:** Galactic Problem Solver at **NASA Space Apps Challenge 2025** and built *Orbital Insight* for **National Space Hackathon 2026**[cite: 1].
-* ⚡ **Fun Fact:** I love combining physics simulations, orbital mechanics, and machine learning pipelines[cite: 1]!
+- 🎓 **Computer Science & Engineering** undergraduate at **KSIT, Bengaluru**.
+- 🔭 **Focus Areas:** Machine Learning, Retrieval-Augmented Generation (RAG), and Applied AI Systems.
+- 🏆 **Hackathons:** Galactic Problem Solver at **NASA Space Apps Challenge 2025** and built *Orbital Insight* for **National Space Hackathon 2026**.
+- ⚡ **Fun Fact:** I love combining physics simulations, orbital mechanics, and machine learning pipelines!
 
 ---
 
@@ -61,16 +61,16 @@
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
-| **Local RAG Study Assistant** | Offline question-answering assistant using sentence embeddings & FAISS without cloud APIs[cite: 1]. | `Python` `Streamlit` `FAISS` `Flan-T5`[cite: 1] |
-| **Orbital Insight** | Satellite tracking, collision-risk monitoring, and RK4 maneuver simulation platform[cite: 1]. | `FastAPI` `React` `Three.js` `Docker`[cite: 1] |
-| **Leukemia Prognosis System** | Neural network pipeline for clinical survival and genetic risk classification[cite: 1]. | `PyTorch` `Scikit-Learn` `Streamlit`[cite: 1] |
-| **Stock Portfolio Manager** | Financial time-series analyzer tracking investment returns and risk allocation[cite: 1]. | `Python` `Pandas` `NumPy`[cite: 1] |
+| **Local RAG Study Assistant** | Offline question-answering assistant using sentence embeddings & FAISS without cloud APIs. | `Python` `Streamlit` `FAISS` `Flan-T5` |
+| **Orbital Insight** | Satellite tracking, collision-risk monitoring, and RK4 maneuver simulation platform. | `FastAPI` `React` `Three.js` `Docker` |
+| **Leukemia Prognosis System** | Neural network pipeline for clinical survival and genetic risk classification. | `PyTorch` `Scikit-Learn` `Streamlit` |
+| **Stock Portfolio Manager** | Financial time-series analyzer tracking investment returns and risk allocation. | `Python` `Pandas` `NumPy` |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinR2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Sachin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinR2004&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SachinR2004&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Sachin's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SachinR2004&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
