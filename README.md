@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-* 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**.
-* 💻 **Primary Focus:** Software Development (SDE), Object-Oriented Design, Backend Systems, and Applied Data Analytics.
-* 🛠️ **Engineering Interests:** Scalable REST APIs, Data Structures & Algorithms, Distributed Systems, and Predictive Modeling.
+- 🎓 **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru**[cite: 2, 3].
+- 💻 **Primary Focus:** Software Development (SDE), Object-Oriented Design, Backend Systems, and Applied Data Analytics[cite: 2, 3].
+- 🛠️ **Engineering Interests:** Scalable REST APIs, Data Structures & Algorithms, Distributed Systems, and Predictive Modeling[cite: 2, 3].
 
 ---
 
@@ -52,21 +52,38 @@
 
 ---
 
-### 📌 Featured Repositories & Projects
+### 📂 Featured Repositories & Systems
 
-| Project | Description | Core Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **Stock Portfolio Management** | Data-driven portfolio management system using OOP design to process financial time-series, track returns, and evaluate risk allocation. | `Python` `Pandas` `NumPy` `OOP` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/Stock-Portfolio-Management-System) |
-| **Orbital Insight** | Space situational awareness platform with RK4 orbital mechanics integration, J2 perturbation models, and real-time visualization. | `FastAPI` `Python` `React` `Docker` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/orbital-insight) |
-| **Customer Churn & Retention** | End-to-end churn prediction and retention analytics dashboard achieving 77.86% accuracy and 0.8423 ROC-AUC. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/Customer-Churn-Retention-Analytics) |
-| **Heart Risk Assessment** | Predictive clinical risk classification application with preprocessing pipelines and interactive UI. | `Python` `Scikit-Learn` `Streamlit` `Pandas` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/Heart-Risk-Assessment) |
-| **Local RAG Study Assistant** | Offline document-questioning pipeline using sentence embeddings and FAISS vector indexing without external APIs. | `Python` `FAISS` `Hugging Face` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/local-rag-assistant) |
-| **Leukemia Prognosis System** | Neural survival classification and hazard estimation pipeline deployed on Hugging Face Spaces. | `PyTorch` `Scikit-Learn` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/SachinR2004/leukemia-prognosis) |
+📦 Software & Systems Engineering
+┣ 📜 Stock-Portfolio-Management-System
+┃ ┣ 🔹 Object-Oriented financial time-series pipeline for tracking asset returns and portfolio risk
+┃ ┣ 🛠️ Python • Pandas • NumPy • OOP
+┃ ┗ 🔗 Repository
+┣ 📜 Orbital-Insight
+┃ ┣ 🔹 Space situational awareness platform with RK4 propagation, J2 perturbation models, and 3D simulation
+┃ ┣ 🛠️ FastAPI • React • Three.js • Docker
+┃ ┗ 🔗 Repository
+┗ 📜 Local-RAG-Study-Assistant
+┣ 🔹 Offline document QA pipeline using sentence embeddings and FAISS dense vector search
+┣ 🛠️ Python • Streamlit • FAISS • Hugging Face
+┗ 🔗 Repository
 
----
+📦 Analytics & Machine Learning Systems
+┣ 📜 Customer-Churn-Retention-Analytics
+┃ ┣ 🔹 Churn risk prediction & retention dashboard achieving 77.86% accuracy and 0.8423 ROC-AUC
+┃ ┣ 🛠️ Python • Scikit-Learn • Pandas • Streamlit
+┃ ┗ 🔗 Repository
+┣ 📜 Heart-Risk-Assessment
+┃ ┣ 🔹 Clinical risk assessment application with end-to-end data preprocessing and inference pipelines
+┃ ┣ 🛠️ Python • Scikit-Learn • Pandas • Streamlit
+┃ ┗ 🔗 Repository
+┗ 📜 Leukemia-Prognosis-System
+┣ 🔹 Survival hazard classification and MLP prediction pipelines deployed on Hugging Face Spaces
+┣ 🛠️ PyTorch • Scikit-Learn • Streamlit
+┗ 🔗 Repository
 
 ### 🧠 Core Competencies
 
-* **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms.
-* **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization.
-* **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall).
+- **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms[cite: 2, 3].
+- **Backend & API Systems:** RESTful API architecture with FastAPI, database schema querying (SQL/PostgreSQL/MySQL), and Docker containerization[cite: 2, 3].
+- **Data Processing & Analytics:** Exploratory data analysis, financial time-series manipulation (Pandas, NumPy), and metric evaluation (ROC-AUC, Precision, Recall)[cite: 2, 3].
