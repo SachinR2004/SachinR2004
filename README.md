@@ -63,7 +63,7 @@
 
 * **[Customer-Churn-Retention-Analytics](https://github.com/SachinR2004/Customer-Churn-Retention-Analytics)**  
   End-to-end churn prediction and retention analytics dashboard achieving **77.86% accuracy** and **0.8423 ROC-AUC**.  
-  `Python` `Scikit-Learn` `Pandas` `Streamlit`[cite: 2]
+  `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 * **[Orbital-Insight](https://github.com/SachinR2004/orbital-insight)**  
   Space situational awareness backend platform featuring RK4 orbital propagation, J2 perturbation models, and real-time 3D simulation.  
