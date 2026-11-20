@@ -11,11 +11,11 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Final-year **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru** *(Class of 2027)* — open to **2027 SDE, Data Engineering & AI/ML Internships**.
-- 💻 **Software & Backend Systems:** Strong foundation in **Data Structures, Algorithms, OOP**, and scalable backend APIs (**FastAPI, React, PostgreSQL, Docker**).
-- 📈 **Data & AI Engineering:** Hands-on experience building high-volume **ETL/analytics pipelines** (550k+ records), **hybrid vector retrieval (RAG) engines**, and real-time anomaly detection systems.
+-  Final-year **Computer Science & Engineering** undergraduate at **K.S. Institute of Technology (KSIT), Bengaluru** *(Class of 2027)* — open to **2027 SDE, Data Engineering & AI/ML Internships**.
+-  **Software & Backend Systems:** Strong foundation in **Data Structures, Algorithms, OOP**, and scalable backend APIs (**FastAPI, React, PostgreSQL, Docker**).
+-  **Data & AI Engineering:** Hands-on experience building high-volume **ETL/analytics pipelines** (550k+ records), **hybrid vector retrieval (RAG) engines**, and real-time anomaly detection systems.
 
 ---
 
