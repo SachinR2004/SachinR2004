@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Sachin 👋
+# Hi there, I'm Sachin 
 
 <p align="center">
   <a href="https://linkedin.com/in/sachinr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
