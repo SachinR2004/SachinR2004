@@ -24,29 +24,30 @@
 **Languages & Core Fundamentals**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" />
 </p>
 
-**Backend, Databases & Developer Tools**
+**Backend, Databases & Cloud**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-**Data Science, Analytics & Frameworks**
+**AI, LLMs & Data Engineering**
 <p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
@@ -54,36 +55,40 @@
 
 ### 📌 Featured Projects
 
-* **[Leukemia-Prognosis-System](https://github.com/SachinR2004/leukemia-prognosis)**  
-  End-to-end ML survival hazard modeling using PyTorch neural architectures (`LogisticHazard`, `DeepHitSingle`) with preprocessing pipelines deployed on Hugging Face Spaces.  
-  `Python` `PyTorch` `Scikit-Learn` `Streamlit`
+- **[Local-RAG-Study-Assistant](https://github.com/SachinR2004/local-rag-assistant)**  
+  Hybrid document Q&A and agentic retrieval system combining dense FAISS vector search, sparse BM25 with Reciprocal Rank Fusion (RRF), LangGraph orchestration, and a FastAPI backend.  
+  `Python` `FastAPI` `LangGraph` `FAISS` `BM25` `Streamlit`
 
-* **[Local-RAG-Study-Assistant](https://github.com/SachinR2004/local-rag-assistant)**  
-  Offline document question-answering system utilizing sentence embeddings, document chunking, and FAISS vector indexing without external cloud APIs.  
-  `Python` `Streamlit` `FAISS` `Hugging Face`
+- **[ORDERFLOW-Analytics-Platform](https://github.com/SachinR2004/orderflow)**  
+  End-to-end e-commerce data engineering and analytics pipeline ingesting 550,000+ Olist records into normalized PostgreSQL schemas, uncovering a 91.89% on-time delivery rate across 96,470 orders.  
+  `Python` `PostgreSQL` `SQLAlchemy` `Pandas` `Plotly` `Streamlit`
 
-* **[Customer-Churn-Retention-Analytics](https://github.com/SachinR2004/Customer-Churn-Retention-Analytics)**  
-  End-to-end churn prediction and retention analytics dashboard achieving **77.86% accuracy** and **0.8423 ROC-AUC**.  
-  `Python` `Scikit-Learn` `Pandas` `Streamlit`
+- **[Autonomic-5G-Edge-Security](https://github.com/SachinR2004/autonomic-5g-edge-security)**  
+  Real-time 5G core network threat detection and closed-loop self-healing engine integrating Open5GS, Isolation Forest anomaly detection, and a MAPE-K control loop.  
+  `Python` `Scikit-Learn` `Open5GS` `Docker` `Networking`
 
-* **[Orbital-Insight](https://github.com/SachinR2004/orbital-insight)**  
-  Space situational awareness backend platform featuring RK4 orbital propagation, J2 perturbation models, and real-time 3D simulation.  
-  `FastAPI` `React` `Three.js` `Docker`
+- **[Orbital-Insight](https://github.com/SachinR2004/orbital-insight)**  
+  Autonomous satellite constellation management and debris avoidance platform featuring RK4 orbital propagation, J2 perturbation models, and real-time 3D visualization.  
+  `FastAPI` `React` `Three.js` `NumPy` `Docker`
 
 ---
 
 ### 📂 Other Projects
 
-* **[Heart-Risk-Assessment](https://github.com/SachinR2004/Heart-Risk-Assessment)**  
-  Interactive clinical risk assessment platform with end-to-end data preprocessing, metric evaluation, and inference workflows.  
+- **[Leukemia-Prognosis-System](https://github.com/SachinR2004/leukemia-prognosis)**  
+  Deep survival analysis and hazard modeling using PyTorch (`LogisticHazard`, `DeepHitSingle`) deployed on Hugging Face Spaces.  
+  `Python` `PyTorch` `PyCox` `Scikit-Learn` `Streamlit`
+
+- **[Customer-Churn-Retention-Analytics](https://github.com/SachinR2004/Customer-Churn-Retention-Analytics)**  
+  End-to-end churn prediction and cohort retention dashboard achieving **77.86% accuracy** and **0.8423 ROC-AUC**.  
   `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
-* **[Stock-Portfolio-Management-System](https://github.com/SachinR2004/Stock-Portfolio-Management-System)**  
-  Object-Oriented financial time-series pipeline for asset allocation, returns calculation, and portfolio risk analysis.  
-  `Python` `Pandas` `NumPy` `OOP`
+- **[Geo-Spatial-Measurement-API](https://github.com/SachinR2004/geospatial-api)**  
+  Containerized REST API for parsing shapefiles and computing geodesic polygon surface areas backed by PostgreSQL.  
+  `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
 
----
-
+  ---
+  
 ### 🧠 Core Competencies
 
 * **Software Engineering & OOP:** Clean modular design, Object-Oriented Programming (Python, C++, Java), and robust data structures & algorithms.
