@@ -55,19 +55,19 @@
 
 ### 📌 Featured Projects
 
-- **[Local-RAG-Study-Assistant](https://github.com/SachinR2004/local-rag-assistant)**  
+- **[Local-RAG-Study-Assistant](https://github.com/SachinR2004/Local-RAG-Study-Assistant.git)**  
   Hybrid document Q&A and agentic retrieval system combining dense FAISS vector search, sparse BM25 with Reciprocal Rank Fusion (RRF), LangGraph orchestration, and a FastAPI backend.  
   `Python` `FastAPI` `LangGraph` `FAISS` `BM25` `Streamlit`
 
-- **[ORDERFLOW-Analytics-Platform](https://github.com/SachinR2004/orderflow)**  
+- **[ORDERFLOW-Analytics-Platform](https://github.com/SachinR2004/Order_flow.git)**  
   End-to-end e-commerce data engineering and analytics pipeline ingesting 550,000+ Olist records into normalized PostgreSQL schemas, uncovering a 91.89% on-time delivery rate across 96,470 orders.  
   `Python` `PostgreSQL` `SQLAlchemy` `Pandas` `Plotly` `Streamlit`
 
-- **[Autonomic-5G-Edge-Security](https://github.com/SachinR2004/autonomic-5g-edge-security)**  
+- **[Autonomic-5G-Edge-Security](https://github.com/SachinR2004/Autonomic_5g_security.git)**  
   Real-time 5G core network threat detection and closed-loop self-healing engine integrating Open5GS, Isolation Forest anomaly detection, and a MAPE-K control loop.  
   `Python` `Scikit-Learn` `Open5GS` `Docker` `Networking`
 
-- **[Orbital-Insight](https://github.com/SachinR2004/orbital-insight)**  
+- **[Orbital-Insight](https://github.com/SachinR2004/Orbital_insight-NSH_2026.git)**  
   Autonomous satellite constellation management and debris avoidance platform featuring RK4 orbital propagation, J2 perturbation models, and real-time 3D visualization.  
   `FastAPI` `React` `Three.js` `NumPy` `Docker`
 
